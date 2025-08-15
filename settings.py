@@ -1,0 +1,9 @@
+FIELD_TIMESTAMP = "timestamp"
+KEY_TIMESTAMP = "@timestamp"
+KEY_URL = "url"
+
+ISO_DATETIME_SEPARATOR = "T"
+
+DATE_INDEX_IN_ISO = 0
+
+ROUND_PRECISION = 3
